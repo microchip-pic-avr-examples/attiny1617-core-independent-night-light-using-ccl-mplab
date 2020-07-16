@@ -45,9 +45,9 @@ The example is explained in more details in the application note [AN2387](#Relat
 
 ## Operation
 
-1. Open `CoreIndependentNightLightusingCCL.X` in MPLAB
+1. Open `CoreIndependentNightLightusingCCL.X` in MPLAB.
 2. Connect the ATtiny1617 with your programmer of choice, we used a Atmel ICE.
-3. Make sure the kit is selected as the tool to be programmed under project settings
+3. Make sure the kit is selected as the tool to be programmed under project settings.
 4. Press the make and program button to program the device.
 4. Press one of the buttons or interact with the sensors to wake the AVR and start the processing.
 
