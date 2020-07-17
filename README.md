@@ -45,7 +45,7 @@ The example is explained in more details in the application note [AN2387](https:
 ## Operation
 
 1. Download the zip file or clone the example to get the source code.
-2. Open `CoreIndependentNightLightusingCCL.X` in MPLAB.
+2. Open `attiny1617-core-independent-night-light-using-ccl-mplab.X` in MPLAB.
 3. Connect the ATtiny1617 with your programmer of choice, we used a Atmel ICE.
 4. Make sure the kit is selected as the tool to be programmed under project settings.
 5. Press the make and program button to program the device.
